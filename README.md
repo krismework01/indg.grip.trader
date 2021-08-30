@@ -2,6 +2,8 @@
 
 swagger:
 
+https://stt.im0hn.com/traider/swagger/index.html
+
 methods:
 1. POST /api/v{version}/users - Anonymous. Add user with password to db;
 2. POST /api/v{version}/auth/signin - Authentication by login and password. Returns bearer token;
