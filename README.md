@@ -2,7 +2,7 @@
 
 swagger:
 
-https://stt.im0hn.com/traider/swagger/index.html
+https://im0hn.com/traider/swagger/index.html
 
 methods:
 1. POST /api/v{version}/users - Anonymous. Add user with password to db;
