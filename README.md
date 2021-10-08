@@ -1,10 +1,5 @@
 # indg.grip.trader
 
-swagger:
-
-https://im0hn.com/traider/swagger/index.html
-
-methods:
 1. POST /api/v{version}/users - Anonymous. Add user with password to db;
 2. POST /api/v{version}/auth/signin - Authentication by login and password. Returns bearer token;
 3. POST /api/v{version}/products - Need to authorize. Add product for sale;
